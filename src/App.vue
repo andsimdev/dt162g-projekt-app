@@ -145,7 +145,7 @@ export default {
 <template>
   <!-- Sidhuvud -->
   <header>
-    <h1><img src="assets/logo.svg" alt="" /> Mina matinköp</h1>
+    <h1>Mina matinköp</h1>
   </header>
 
   <!-- Huvudinnehållet -->
