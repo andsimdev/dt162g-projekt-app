@@ -1,0 +1,22 @@
+/* Hämta typsnitt */
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;200;300;400;500;600;700&display=swap');
+
+
+/* Variabler */
+:root {
+  --green: rgb(123, 230, 123);
+  --red: rgb(220, 61, 61);
+  --orange: rgb(255, 187, 61);
+}
+
+/* Nollställning */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  transition: .5s;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Vazirmatn', sans-serif;
+}
